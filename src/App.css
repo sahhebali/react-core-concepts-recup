@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.blog{
+  background-color: aqua;
+  border: 3px solid green;
+  margin: 10px;
+  border-radius: 10px;
+
+}
